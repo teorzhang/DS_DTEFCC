@@ -29,7 +29,7 @@ This codebase is mainly based on [Hannibal046/SDDS](https://github.com/Hannibal0
 ## Citation
 
 ```bibtex
-@article{liu2026dialogue,
+@article{2026,
   author  = {Zhanghui Liu and Zhang Wentao and Yuzhong Chen and Lin Yixin},
   title   = {Dialogue summarization with topic enhancement and factual consistency contrast},
   journal = {Computer Speech \& Language},
