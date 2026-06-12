@@ -1,6 +1,6 @@
 # DS_DTEFCC
 
-Code for Dialogue summarization with topic enhancement and factual consistency contrast.
+Code for dialogue summarization with topic enhancement and factual consistency contrast.
 
 
 ## Setup
