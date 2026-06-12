@@ -8,7 +8,6 @@ Code for Dialogue summarization with topic enhancement and factual consistency c
 ```bash
 cd src
 pip install -r requirements.txt
-python -m spacy download en_core_web_sm
 ```
 
 The default configs use `facebook/bart-large` from Hugging Face.
@@ -25,7 +24,7 @@ python run_summarization.py config/samsum_config.json
 
 ## Acknowledgements
 
-This codebase is mainly based on [Hannibal046/SDDS](https://github.com/Hannibal046/SDDS) and [adjidieng/ETM](https://github.com/adjidieng/ETM). We thank the authors for releasing their code.
+This codebase is mainly based on [Hannibal046/SDDS](https://github.com/Hannibal046/SDDS), [adjidieng/ETM](https://github.com/adjidieng/ETM), and [shon-otmazgin/fastcoref](https://github.com/shon-otmazgin/fastcoref). We thank the authors for releasing their code.
 
 ## Citation
 
