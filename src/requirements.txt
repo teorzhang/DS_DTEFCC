@@ -31,8 +31,6 @@ docutils==0.20.1
 dpath==2.1.6
 dpcpp-cpp-rt==2023.0.0
 emoji==2.2.0
-# Install the spaCy English model separately:
-# python -m spacy download en_core_web_sm
 fastjsonschema==2.18.0
 filelock==3.8.2
 fonttools==4.38.0
@@ -138,9 +136,6 @@ sklearn==0.0.post1
 smart-open==6.2.0
 smmap==5.0.0
 snakemake==7.32.3
-spacy==3.3.1
-spacy-legacy==3.0.10
-spacy-loggers==1.0.3
 srsly==2.4.5
 stanza==1.5.0
 stopit==1.1.2
