@@ -28,6 +28,7 @@ This codebase is mainly based on [Hannibal046/SDDS](https://github.com/Hannibal0
 
 ## Citation
 
+If you find our work useful, please consider citing it as:
 ```bibtex
 @article{2026,
   author  = {Zhanghui Liu and Zhang Wentao and Yuzhong Chen and Lin Yixin},
