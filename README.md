@@ -31,7 +31,7 @@ This codebase is mainly based on [Hannibal046/SDDS](https://github.com/Hannibal0
 If you find our work useful, please consider citing it as:
 ```bibtex
 @article{2026,
-  author  = {Zhanghui Liu and Zhang Wentao and Yuzhong Chen and Lin Yixin},
+  author  = {Zhanghui Liu and Wentao Zhang and Yuzhong Chen and Yixin Lin},
   title   = {Dialogue summarization with topic enhancement and factual consistency contrast},
   journal = {Computer Speech \& Language},
   volume  = {100},
